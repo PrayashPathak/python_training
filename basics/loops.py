@@ -53,3 +53,6 @@ print(f"Vowels = {count}")
 # new_string = ""
 new_string = "".join(reversed(string))
 print(new_string)
+
+# Print the Presence of each letter in a word .
+#  Armstrong number or not
