@@ -8,3 +8,5 @@ else:  # Gets executed if exception does not occurs.
 finally:
     print("This gets executed irrespective of the exception occurence..")
 print("Program executed.")
+
+# Matrix Multiplication
